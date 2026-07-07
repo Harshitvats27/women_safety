@@ -76,6 +76,5 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 ## 🔗 Links
 * **Repository:** [Aegis-Personal-Safety](https://github.com/Harshitvats27/Aegis-Personal-Safety)
-* **Presentation:** [Aegis PPT](https://docs.google.com/presentation/d/1wl78EIUMHvHIPkActjb9xu73bAbZq01WQ5i-jE-jXZk/edit?usp=sharing)
-* **Demo Video:**[Aegis Demo](https://drive.google.com/file/d/1dqssIefLwaNCaKAP8X8s28-vxOMNcmoZ/view?usp=drive_link)
+* **Demo Video:**[Aegis Demo](https://drive.google.com/file/d/1zbEHy7PyhyBg9E1LZ4X-_dWAmIfw4Gpf/view?usp=sharing)
 * **Aegis on Paly Store**[Aegis: Personal Safety App](https://play.google.com/store/apps/details?id=com.harshitvats.aegis)
